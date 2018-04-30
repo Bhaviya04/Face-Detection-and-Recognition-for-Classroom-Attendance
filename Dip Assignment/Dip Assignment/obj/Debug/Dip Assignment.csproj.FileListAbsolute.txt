@@ -1,0 +1,79 @@
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\msvcp140.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\vcruntime140.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.exe.config
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.exe
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.pdb
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.UI.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.World.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\ZedGraph.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.UI.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.World.pdb
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Emgu.CV.World.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\ZedGraph.xml
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.Form1.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmAdminLogin.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmAdminOptions.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmDeleteUser.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmDocumentLibrary.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmMain.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmPDFViewer.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmSaveDialog.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmSplashScreen.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmUploadDocument.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.Properties.Resources.resources
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.csproj.GenerateResource.Cache
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.exe
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.pdb
+C:\Users\CampusUser\Documents\Visual Studio 2015\Projects\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.csprojResolveAssemblyReference.cache
+C:\Users\CampusUser\Downloads\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.exe.config
+C:\Users\CampusUser\Downloads\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.exe
+C:\Users\CampusUser\Downloads\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.pdb
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.exe.config
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.exe
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.pdb
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\msvcp140.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\vcruntime140.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.exe
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\Dip Assignment.pdb
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.xml
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.csprojResolveAssemblyReference.cache
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.Form1.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmAdminLogin.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmAdminOptions.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmDeleteUser.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmDocumentLibrary.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmMain.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmPDFViewer.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmSaveDialog.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmSplashScreen.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmUploadDocument.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.Properties.Resources.resources
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip Assignment.csproj.GenerateResource.Cache
+C:\Users\CampusUser\Downloads\Bhaviya_4\Bhaviya_4\Final_Year_Project\Dip Assignment\Dip Assignment\obj\Debug\Dip_Assignment.FrmAdminSelectCourse.resources
